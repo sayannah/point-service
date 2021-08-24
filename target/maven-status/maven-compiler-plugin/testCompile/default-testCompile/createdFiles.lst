@@ -1,0 +1,8 @@
+com\cts\pointsmicroservice\model\AuthResponseTest.class
+com\cts\pointsmicroservice\model\MessageResponseTest.class
+com\cts\pointsmicroservice\exception\PointsExceptionHandlerTest.class
+com\cts\pointsmicroservice\model\OfferTest.class
+com\cts\pointsmicroservice\model\PointsTest.class
+com\cts\pointsmicroservice\PointsMicroserviceApplicationTests.class
+com\cts\pointsmicroservice\controller\PointsControllerTest.class
+com\cts\pointsmicroservice\service\PointsServiceTest.class

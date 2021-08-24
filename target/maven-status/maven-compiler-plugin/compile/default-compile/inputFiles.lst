@@ -1,0 +1,14 @@
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\controller\PointsController.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\model\MessageResponse.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\exception\PointsExceptionHandler.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\model\Offer.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\client\OfferClient.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\service\PointsService.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\exception\InvalidUserException.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\client\AuthClient.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\model\AuthResponse.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\model\Points.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\PointsMicroserviceApplication.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\repository\PointsRepository.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\configuration\SwaggerConfigure.java
+D:\internship\intern-related\Stage 3&4\project\sample\Corporateclassifieds-main-2\Corporateclassifieds-main\PointsMicroservice\src\main\java\com\cts\pointsmicroservice\service\PointsServiceImpl.java
